@@ -5,6 +5,9 @@ Altium Designer 2020
   <img src=https://github.com/schu-lab/Altium-Geiger-Muller-Counter/blob/main/giphy.gif alt="animated" height="400" />
 </p>
 
+References:</br>
+(1) https://mightyohm.com/blog/products/geiger-counter/
+
 Summary:<br />
 (1) Obtain CAD files for components from external sources like Octopart or Mouser.<br />
 (2) Create Library.<br />
