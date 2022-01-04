@@ -1,4 +1,5 @@
 # Altium-Geiger-Muller-Counter
+Altium Designer 2020
 
 <p align="center">
   <img src=https://github.com/schu-lab/Altium-Geiger-Muller-Counter/blob/main/3D-GM-Counter.PNG | height="400" />
