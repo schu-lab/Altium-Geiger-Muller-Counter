@@ -17,4 +17,4 @@ Summary:<br />
 <p align="center">
   <img src=https://github.com/schu-lab/Altium-Geiger-Muller-Counter/blob/main/3D-GM-Counter.PNG | height="400" />
   <img src=https://github.com/schu-lab/Altium-Geiger-Muller-Counter/blob/main/PCB-GM-Counter.PNG | height="400" />
-</p>**
+</p>
